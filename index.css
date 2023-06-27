@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: 100;
+}
+
+button {
+    color: white;
+    width: 110px;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px; 
+}
+
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.top {
+    background-color: #6943fe; 
+    padding: 30px;
+    color: black;
+}
+
+
+.bottom {
+    background-color: #f4f4f4;
+    padding: 50px;
+}
+
+.sectionOne {
+    background-color: white;
+    padding: 10px;
+}
+
+.sectionTwo {
+    background-color: white;
+    padding: 10px;
+}
+
+.sectionThree {
+    background-color: white;
+    padding: 10px; 
+}
